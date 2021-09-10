@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Router, Switch, Route, Link } from 'react-router-dom';
 
-import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 import Login from './components/Login';
